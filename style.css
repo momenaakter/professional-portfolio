@@ -84,4 +84,7 @@ body{
     border-image-slice: 1;
     padding: 10px;
 }
+footer p{
+    text-align: center;
+}
 
